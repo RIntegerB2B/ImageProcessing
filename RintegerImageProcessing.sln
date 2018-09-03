@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RintegerImageProcessing", "RintegerImageProcessing\RintegerImageProcessing.csproj", "{CD349474-4245-47E6-B2D8-494F0F88E261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RintegerImageProcessingBA", "RintegerImageProcessingBA\RintegerImageProcessingBA.csproj", "{F6913AD2-1AAE-405B-934A-F89C66AC57CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD349474-4245-47E6-B2D8-494F0F88E261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD349474-4245-47E6-B2D8-494F0F88E261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD349474-4245-47E6-B2D8-494F0F88E261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD349474-4245-47E6-B2D8-494F0F88E261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6913AD2-1AAE-405B-934A-F89C66AC57CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6913AD2-1AAE-405B-934A-F89C66AC57CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6913AD2-1AAE-405B-934A-F89C66AC57CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6913AD2-1AAE-405B-934A-F89C66AC57CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C35BFE66-88DD-4BCE-9927-597108BA7BA8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\preveen_chandran\source\repos\RintegerImageProcessing\RintegerImageProcessingBA\bin\Debug\netstandard2.0\RintegerImageProcessingBA.deps.json
+C:\Users\preveen_chandran\source\repos\RintegerImageProcessing\RintegerImageProcessingBA\bin\Debug\netstandard2.0\RintegerImageProcessingBA.dll
+C:\Users\preveen_chandran\source\repos\RintegerImageProcessing\RintegerImageProcessingBA\bin\Debug\netstandard2.0\RintegerImageProcessingBA.pdb
+C:\Users\preveen_chandran\source\repos\RintegerImageProcessing\RintegerImageProcessingBA\obj\Debug\netstandard2.0\RintegerImageProcessingBA.csproj.CoreCompileInputs.cache
+C:\Users\preveen_chandran\source\repos\RintegerImageProcessing\RintegerImageProcessingBA\obj\Debug\netstandard2.0\RintegerImageProcessingBA.AssemblyInfoInputs.cache
+C:\Users\preveen_chandran\source\repos\RintegerImageProcessing\RintegerImageProcessingBA\obj\Debug\netstandard2.0\RintegerImageProcessingBA.AssemblyInfo.cs
+C:\Users\preveen_chandran\source\repos\RintegerImageProcessing\RintegerImageProcessingBA\obj\Debug\netstandard2.0\RintegerImageProcessingBA.dll
+C:\Users\preveen_chandran\source\repos\RintegerImageProcessing\RintegerImageProcessingBA\obj\Debug\netstandard2.0\RintegerImageProcessingBA.pdb
